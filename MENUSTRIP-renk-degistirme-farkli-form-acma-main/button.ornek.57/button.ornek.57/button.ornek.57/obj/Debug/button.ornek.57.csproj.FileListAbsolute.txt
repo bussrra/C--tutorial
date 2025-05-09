@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\bin\Debug\button.ornek.57.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\bin\Debug\button.ornek.57.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\bin\Debug\button.ornek.57.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek._57.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek._57.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek.57.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek._57.OgrenciEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek._57.KitapEkle.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.57\button.ornek.57\button.ornek.57\obj\Debug\button.ornek._57.BusraEkle.resources
